@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EarlyBird116
 - 👀 I’m interested in finding projects to contribute to
 - 🌱 I’m currently learning python/data science
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything, I used to code and I'm just getting back into it with Python instead of PHP
 - 📫 How to reach me webarnum116@gmail.com
 
 <!---
